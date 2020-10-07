@@ -1,0 +1,23 @@
+INFO 2950 Project Phase 1
+skl94
+ck383
+
+Github repository link: https://github.com/chkang96/info-2950.git
+
+Dataset Ideas & availability of data:
+
+1) Golf: The effect of drive(tee-shot) length to the overall score. OR, given the past PGA tour data, predict the winner of the next PGA tour. data sets for PGA golfers widely available. PGA.com Kaggle, etc. Golf stats and records available on pgatours.com
+
+2) Lottery tickets: Which numbers were the most successful? Which locations were most successful? Widely available data again on news, Kaggle, government websites. Lottery winning numbers data on kaggle.com
+
+3) Names: Which names are most successful (salary-wise/instagram followers/fame(?)) by year/decade? Which names are the most prevalent by year/decade. Datasets most likely available on Kaggle. Most common CEO names on Google. Most popular names (name berry). 
+
+Questions for reviewers:
+
+1) Are our datasets and ideas more for data analysis or for machine learning/data science? 
+2) Are our ideas sufficient enough for the final project? If not, are there any suggestions for the project given the 3 topics we chose? 
+3) If any of them have been chosen by other groups as well?
+4) Which one would you most recommend and least recommend? 
+5) Are there any topics that have the wrong direction? 
+
+Comment: Great work! I think that all of the options you mentioned would work. You will be using jupyter notebook and concepts you are learning in class in order to analyze your dataset. It initially looks like your ideas are sufficient. I do not think your datasets were chosen by other groups. In terms of which I would recommend, I think they are all good ideas and I would go off of which idea you find the most interesting. Personally, I think the last idea sounds very cool and I have never heard about anyone in this class doing anything similar. However, you will be working on this project for a while and you want to be interested by your work. The only suggestion I have is that you want to be able to go deep into your analysis. You do not want a simple question that is easily answered with few lines of code.
